@@ -1,13 +1,13 @@
 ## Why React Native?
 * Facebook and Instagram mobile app were built on top of it
 * You are using OS specific features.
-* You prefer to code in notepad++ / sublime / atom / emacs / vim
+* You prefer to code in vscode/vim/any other
 * You love javascript
 * Different codebase for android and IOS?
     - Not really. You can use `import`.
 
 ## Preparation - Installation
-* Ensure you have android SDK, Node JS, and NPM installed
+* Ensure you have android SDK/IOS dev tools, Node JS, and NPM installed
 * Run this command:
     - `npm install -g react-native-cli`
 * put this in ~/.profile 
